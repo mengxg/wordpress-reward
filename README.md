@@ -7,4 +7,4 @@
 1、下载该插件，复制到/wp-content/plugins的目录下面
 2、然后通过后台启用该插件，设置>>打赏二维码>>选择二维码>>保存设置
 
-插件页面：http://www.mengxgtop.com/
+插件页面：http://www.mengxg.top
